@@ -1,29 +1,16 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-![](https://img.shields.io/badge/Responsive-Design-orange)
-![](https://img.shields.io/badge/-HTML5-rgb(221%2C%2075%2C%2037))
-![](https://img.shields.io/badge/-CSS3-rgb(31%2C%2095%2C%20170))
-![](https://img.shields.io/badge/-Bootstrap5-rgb(140%2C%2018%2C%20245))
-![](https://img.shields.io/badge/-Sass-rgb(199%2C%20100%2C%20148))
+![](https://img.shields.io/badge/-Ruby-rgb(199%2C%2032%2C%2039)?style=plastic&logo=ruby)
 
-# Venezuela Travel Agency Page - Mohammed Awad Design Guide
+# Practices - Ruby
 
-> I created the Venezuela Travel Agency Page portal based on Mohammed Awad's design from scratch.
+> Create this Github repository in order to carry out educational practices related to the Ruby Programming Language.
 ![screenshot](./app_screenshot.png)
 
-Venezuela Travel Agency Page - [Mohammed Awad Design Guide](https://www.behance.net/gallery/24796463/ZATTIX)
-This web page was HTML & CSS Capstone Project of the microverse curriculum.
-In this project, I tried to be guided by the excellent design of [Mohammed Awad](https://www.behance.net/M_Awad) to make the Venezuela Travel Agency web portal and for this, I wanted to demonstrate the importance of bootstrap and Sass in the development of receptive portals.
+Practices - [Ruby](https://ruby-doc.org/)
+This project is carried out for educational purposes for learning the Ruby programming language.
 
 ## Built With
 
-![](https://img.shields.io/badge/-Bootstrap-rgb(140%2C%2018%2C%20245))
-![](https://img.shields.io/badge/-Sass-rgb(199%2C%20100%2C%20148))
-![](https://img.shields.io/badge/-HTML5-rgb(221%2C%2075%2C%2037))
-![](https://img.shields.io/badge/-CSS3-rgb(31%2C%2095%2C%20170))
-![](https://img.shields.io/badge/-Git-rgb(232%2C78%2C49))
-![](https://img.shields.io/badge/-Webhint-rgb(69%2C%200%2C%20158))
-![](https://img.shields.io/badge/-Stylelint-black)
-![](https://img.shields.io/badge/-VSCode-rgb(3%2C%20139%2C%20207))
+![](https://img.shields.io/badge/-Ruby-rgb(199%2C%2032%2C%2039)?style=plastic&logo=ruby)
 
 ## Live Demo
 
@@ -31,7 +18,7 @@ In this project, I tried to be guided by the excellent design of [Mohammed Awad]
 
 ## Getting Started
 
-This project was created with the purpose of studying the visual importance of bootstrap and Sass in the development of responsive portals.
+This project was created with the purpose of studying Ruby.
 
 ### Prerequisites
 
@@ -49,7 +36,7 @@ To get a local copy up and running follow these simple example steps:
 - If you have any questions or problems about how to run this project, you can leave me a comment in the [issues section](https://github.com/aristides1000/using-bootstrap/issues) of this repository, I am more than willing to help you.
 
 ### Usage
-Run the index.html file.
+Run the files contents in the Repo.
 
 ### Run tests
 Linters errors
@@ -67,7 +54,7 @@ Aristides Jose Molina Pérez
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/aristides1000/html_css_capstone_online_shop_travel_agency/issues).
+Feel free to check the [issues page](https://github.com/aristides1000/Ruby_Practices/issues).
 
 ## Show your support
 
@@ -81,4 +68,3 @@ This project is [CC0-1.0](LICENSE) licensed.
 
 - Ariel Camus CEO Microverse: For letting us start this journey.
 - Google: For letting us find crucial information in order to create this project.
-- [Mohammed Awad](https://www.behance.net/M_Awad): For having served as guidance when it comes to making a good responsive design.
